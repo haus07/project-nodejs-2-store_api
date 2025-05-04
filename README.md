@@ -1,14 +1,14 @@
 ﻿# project-nodejs-2-store_api
 Đây là 1 dự án sử dụng NodeJS và framework ExpressJS
 Dự án giúp em học :
-  _ Cách để sử dụng middleware
-  _ Học được cách giao tiếp của client và server
-  _ Học được cách co thể kết nối với MongooseDB
-  _ Học được cách sử dung middleware đê làm việc với errorHandle
-  _ Biết được 1 vài stausCode : 200,201,400,401,500
-  _ Cách hoạt động của mô hình mvc 
-  _ Cách JWT hoạt động và áp dụng 
-  _ Một vài chi tiết nhỏ cần để ý
+  - Cách để sử dụng middleware
+  - Học được cách giao tiếp của client và server
+  - Học được cách co thể kết nối với MongooseDB
+  - Học được cách sử dung middleware đê làm việc với errorHandle
+  - Biết được 1 vài stausCode : 200,201,400,401,500
+  - Cách hoạt động của mô hình mvc 
+  - Cách JWT hoạt động và áp dụng 
+  - Một vài chi tiết nhỏ cần để ý
 
 ## Demo
   _ Link deploy (em sử dụng Render để deoloy) :
